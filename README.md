@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Nika.
+<h1 align='center'>Hi there! 👋 My name is Nika.
 
 <!--
 **ezzegen/ezzegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
