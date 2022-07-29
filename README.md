@@ -1,5 +1,6 @@
 <h1 align='center'>Hi there! 👋 My name is Nika.
-
+< img src='https://github.com/ezzegen/ezzegen/Hello.jpg
+  
 <!--
 **ezzegen/ezzegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
