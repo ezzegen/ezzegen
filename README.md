@@ -1,13 +1,14 @@
 
-## About me
-- **Name:** Veronica Bakhareva <img src="IMG_0666.JPG" width=150 align='right'>
+## About me<img src="IMG_0666.JPG" width=150 align='left'> 
+- **Name:** Veronica Bakhareva
 - **Birthday:** April 21, 1995
 - **City:** Russian Federation/ Samara
 - **Hobby:** developing web-applications, studying , guitar
+
 - **Education:**
-  - Samara State Medical University (2013-2018)
-  - Medical University "REAVIZ" (2018-2020)
-  > *Faculty "Dentistry"*
+    - Samara State Medical University (2013-2018)
+    - Medical University "REAVIZ" (2018-2020)
+        > *Faculty "Dentistry"*
 
 #### I'm using:
   [![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
