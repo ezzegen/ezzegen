@@ -19,11 +19,11 @@
 ## Stack of technologies:
   
   [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)&nbsp;
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp; 
+<!--   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp;  -->
   [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
   [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=for-the-badge&logoColor=white)](https://www.javascript.com/)&nbsp;
+<!--   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=for-the-badge&logoColor=white)](https://www.javascript.com/)&nbsp; -->
 
   
   #### Love to learn new skills here:  
