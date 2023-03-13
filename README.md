@@ -1,6 +1,6 @@
 
 ## About me
-- **Name:** Veronica Bakhareva
+- **Name:** Veronica Bakhareva <img src="IMG_0666.JPG" width=150 align='right'>
 - **Birthday:** April 21, 1995
 - **City:** Russian Federation/ Samara
 - **Hobby:** developing web-applications, studying , guitar
