@@ -1,5 +1,5 @@
 
-## About me<img src="IMG_0666.JPG" width=150 align='left'> 
+## About me<img src="IMG_0666.JPG" width=150 align='right'> 
 - **Name:** Veronica Bakhareva
 - **Birthday:** April 21, 1995
 - **City:** Russian Federation/ Samara
