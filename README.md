@@ -22,10 +22,11 @@
   
   [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)&nbsp;
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=for-the-badge&logoColor=white)](https://www.javascript.com/)&nbsp;
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp;<br> 
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescrypt&logoColor=white&color=blue&labelColor=blue)](https://www.typescriptlang.org/)&nbsp;<br>
   [![Git](https://img.shields.io/badge/-Git-black?logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)&nbsp;
   [![Github](https://img.shields.io/badge/-GitHub-lightgrey?logo=github&style=for-the-badge&logoColor=white)](https://github.com/)&nbsp;
   [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white&color=blue&labelColor=blue)](https://docker.com/)&nbsp;<br>
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&style=for-the-badge&logoColor=white)](https://postgresql.org)&nbsp;<br> 
   [![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js&logoColor=green&color=green&labelColor=black)](https://nodejs.org/en)&nbsp;
   [![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=NestJS&logoColor=red&color=red&labelColor=black)](https://nestjs.com/)&nbsp;<br>
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
