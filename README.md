@@ -36,7 +36,7 @@
   #### Love to learn new skills here:  
 
   [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
-  [![Stepik](https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/295660334)
+  [![Stepik](https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/)
 
 ## Github analytics
   <p align='center'>
