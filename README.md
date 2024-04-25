@@ -6,9 +6,10 @@
 - **Hobby:** developing web-applications, studying , guitar
 
 - **Education:**
+    - Samara State Technical University (2023-2025)
+      >faculty: Data Analyst
     - Samara State Medical University (2013-2018)
     - Medical University "REAVIZ" (2018-2020)
-        > *Faculty "Dentistry"*
 
 #### I'm using:
   [![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
